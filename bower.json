@@ -1,0 +1,8 @@
+{
+    "name": "nbg-open-bank-api-html-js",
+    "dependencies": {
+        "fetch": "0.11.0",
+        "bootstrap": "3.3.6",
+        "codemirror": "5.14"
+    }
+}
